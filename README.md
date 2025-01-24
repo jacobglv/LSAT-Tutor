@@ -3,15 +3,15 @@
 ## Overview
 LSAT Tutor is an application built using OpenAI’s API with access to their state-of-the-art language model, ChatGPT-4o, to quickly deliver LSAT practice questions,
 answers, and explanations. It also challenges the user metacognitively by encouraging them to set goals, self-evaluate, and reflect on their learning. Because
-metacognition is essential for students’ success and critical thinking skills, and critical thinking skills are important to develop to take the LSAT, this implementation should improve student outcomes. It seems to be a knowledgeable tutor, having scored 85% (17/20) on logical reasoning questions with varying difficulties and 100% (12/12) on reading comprehension questions during my evaluation
+metacognition is essential for students’ success and critical thinking skills, and critical thinking skills are important to develop to take the LSAT, this implementation should improve student outcomes. It seems to be a knowledgeable tutor, having scored 85% (17/20) on logical reasoning questions with varying difficulties and 100% (12/12) on reading comprehension questions during my evaluation.
 
 ## Key Features
 - Metacognitive Approach: Encourages users to set goals, self-evaluate, and reflect on their learning, improving their metacognitive skills.
 - Multiple Sections: Provides practice sessions for Logical Reasoning, Reading Comprehension, and a Shuffle Mode that combines both.
-- AI-Powered Questions: Uses GPT-4o to dynamically generate LSAT-like questions and explanations.
+- AI-Powered Questions: Uses GPT-4o to dynamically generate LSAT questions and explanations.
 - Session Summaries: Generates a personalized summary after each session based on the user's goals, reflections, and performance in the last three sessions.
 - Affordable Tutoring: Aims to provide a cost-effective alternative to expensive private tutoring, which can be prohibitive for students from lower-income backgrounds.
-- 
+
 ## Technology Stack
 
 ### Frontend:
