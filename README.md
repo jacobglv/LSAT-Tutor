@@ -1,7 +1,9 @@
 # LSAT_Tutor
 
 ## Overview
-LSAT Tutor is a full-stack application designed to provide an accessible, metacognitive-based tutoring experience for pre-law students. This platform generates and delivers LSAT practice questions, answers, and explanations using OpenAI’s GPT-4o API. It encourages users to set goals, self-evaluate, and reflect on their learning process, reinforcing critical thinking and metacognitive skills that are essential for excelling in the LSAT.
+LSAT Tutor is an application built using OpenAI’s API with access to their state-of-the-art language model, ChatGPT-4o, to quickly deliver LSAT practice questions,
+answers, and explanations. It also challenges the user metacognitively by encouraging them to set goals, self-evaluate, and reflect on their learning. Because
+metacognition is essential for students’ success and critical thinking skills, and critical thinking skills are important to develop to take the LSAT, this implementation should improve student outcomes. It seems to be a knowledgeable tutor, having scored 85% (17/20) on logical reasoning questions with varying difficulties and 100% (12/12) on reading comprehension questions during my evaluation
 
 ## Key Features
 - Metacognitive Approach: Encourages users to set goals, self-evaluate, and reflect on their learning, improving their metacognitive skills.
@@ -108,7 +110,9 @@ In an initial evaluation of LSAT Tutor using 32 free LSAT questions:
 GPT-4o scored:
 85% (17/20) on logical reasoning questions
 100% (12/12) on reading comprehension questions
-These results suggest GPT-4o is a competent LSAT tutor, especially in reading comprehension.
+
+The evaluation showed that GPT-4o is an effective provider for LSAT Tutor. It scored 90.6% on the thirty-two given questions, with two out of three missed questions being the most challenging difficulty. Based on this small evaluation, GPT-4o would have scored around 170 on the LSAT. For reference, a score of 170 on the LSAT is in the 96th percentile according to the Law School Admission Council (2023).
+
 
 ## Contributing
 If you'd like to contribute to LSAT Tutor, submit pull requests or report issues. I welcome any contributions!
