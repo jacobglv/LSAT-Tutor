@@ -33,7 +33,7 @@ metacognition is essential for students’ success and critical thinking skills,
 -Python (v3.8 or higher)
 - Django
 - OpenAI API key (you need to sign up for OpenAI access)
-- 
+
 ### Steps
 - Clone the Repository
 ```
